@@ -1,6 +1,6 @@
 # Remote Access to your Voron with ZeroTier
 
-A (very quick) video equivalent of these steps is available here: 
+A (very quick) video equivalent of these steps is available [on YouTube](https://www.youtube.com/watch?v=T6L9Kx5R8BE).
 
 Prerequisites: 
 
